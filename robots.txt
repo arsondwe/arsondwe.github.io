@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arsondwe.github.io/sitemap.html.gz
+Sitemap: https://arsondwe.github.io/app/sitemap.html.gz
+Sitemap: https://arsondwe.github.io/assets/sitemap.html.gz
+Sitemap: https://arsondwe.github.io/css/sitemap.html.gz
+Sitemap: https://arsondwe.github.io/includes/sitemap.html.gz
+Sitemap: https://arsondwe.github.io/item/sitemap.html.gz
+Sitemap: https://arsondwe.github.io/src/sitemap.html.gz
